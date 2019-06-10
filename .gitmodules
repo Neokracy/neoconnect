@@ -1,0 +1,3 @@
+[submodule "clients/neoconnect.js"]
+	path = clients/neoconnect.js
+	url = https://github.com/Neokracy/neoconnect.git
