@@ -1,3 +1,12 @@
 [submodule "clients/neoconnect.js"]
 	path = clients/neoconnect.js
 	url = https://github.com/Neokracy/neoconnect.git
+[submodule "clients/neoconnect.net"]
+	path = clients/neoconnect.net
+	url = https://github.com/Neokracy/neoconnect.git
+[submodule "clients/neoconnect.php"]
+	path = clients/neoconnect.php
+	url = https://github.com/Neokracy/neoconnect.git
+[submodule "clients/neoconnect.py"]
+	path = clients/neoconnect.py
+	url = https://github.com/Neokracy/neoconnect.git
